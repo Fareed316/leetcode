@@ -7,7 +7,6 @@ Welcome to my repository of LeetCode solutions! This repository is dedicated to 
 | Problem ID | Title | Difficulty | Kotlin Solution | Python Solution |
 |------------|-------|------------|-----------------|-----------------|
 | 001        | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](./Kotlin/TwoSum.kt) | [Link](./Python/TwoSum.py) |
-
 ## Contact
 
 You can reach me at md.fareed316@gmail.com
